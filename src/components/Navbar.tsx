@@ -28,7 +28,7 @@ const Navbar = () => {
           animate={{ opacity: 1 }}
           className="text-xl font-bold tracking-tighter text-white group"
         >
-          NIFEMI<span className="text-cyan-400 group-hover:animate-pulse">.</span>DEV
+          NIFEMI<span className="text-cyan-400 group-hover:animate-pulse">.</span>SPACE
         </motion.a>
 
         {/* Desktop Nav */}

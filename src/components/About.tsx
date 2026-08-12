@@ -15,7 +15,7 @@ const About = () => {
           >
             <div className="aspect-square rounded-2xl overflow-hidden border-2 border-cyan-500/20">
               <img 
-                src="/about-femi.png" 
+                src="/About%20us%20character%20pic.png"
                 alt="Olojede Jahnifemi"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
               />

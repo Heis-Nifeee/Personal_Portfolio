@@ -4,7 +4,7 @@ import { Mail, Github, Twitter, Linkedin, ArrowUpRight, FileText } from 'lucide-
 
 const socialLinks = [
   { name: 'Email', icon: <Mail />, href: 'mailto:dolaponifemi941@gmail.com', color: 'hover:text-cyan-400' },
-  { name: 'GitHub', icon: <Github />, href: 'https://github.com/Heis-Nifee', color: 'hover:text-white' },
+  { name: 'GitHub', icon: <Github />, href: 'https://github.com/Heis-Nifeee', color: 'hover:text-white' },
   { name: 'Twitter', icon: <Twitter />, href: 'https://twitter.com/heis_nifeee', color: 'hover:text-sky-400' },
   { name: 'LinkedIn', icon: <Linkedin />, href: 'https://linkedin.com/in/olojede-jahnifemi', color: 'hover:text-blue-400' },
   { name: 'Resume', icon: <FileText />, href: '/resume.pdf', color: 'hover:text-emerald-400' },

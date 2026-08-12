@@ -97,7 +97,7 @@ const Navbar = () => {
             View CV
           </a>
           <div className="flex gap-4 pt-4 border-t border-slate-800">
-            <a href="https://github.com/Heis-Nifee" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400"><Github size={20} /></a>
+            <a href="https://github.com/Heis-Nifeee" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400"><Github size={20} /></a>
             <a href="https://twitter.com/heis_nifeee" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400"><Twitter size={20} /></a>
             <a href="https://linkedin.com/in/olojede-jahnifemi" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-cyan-400"><Linkedin size={20} /></a>
           </div>

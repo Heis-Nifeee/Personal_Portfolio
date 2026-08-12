@@ -30,7 +30,8 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight"
         >
-          Olojede Jahnifemi
+          <span className="block">Olojede Jahnifemi</span>
+          <span className="block">Phinehas</span>
         </motion.h1>
 
         <div className="h-12 mb-8 flex items-center justify-center gap-3 font-mono text-xl md:text-2xl text-slate-400">
